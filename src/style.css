@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+button {
+    position: fixed;
+    background: white;
+    border: none;
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+}
+.left {
+    bottom: 10%;
+    left: 5%;
+}
+.right {
+    bottom: 10%;
+    left: 15%;
+}
